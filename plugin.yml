@@ -1,0 +1,11 @@
+main: com.outlook.iprogramit.DyeLution.Main
+name: DyeLution
+version: 1.6_RELEASE-1
+author: iProgramIt
+description: Dilute dyes with water buckets!
+commands:
+  dyelution:
+    description: Reloads DyeLution
+    usage: /dye [reload|rl]
+    permission: dyelution
+    aliases: [dye, dlution, dilution]
